@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\encriptar clave\encriptar clave\bin\Debug\encriptar clave.exe.config
+C:\Users\Mauricio M\Downloads\encriptar clave\encriptar clave\bin\Debug\encriptar clave.exe
+C:\Users\Mauricio M\Downloads\encriptar clave\encriptar clave\bin\Debug\encriptar clave.pdb
+C:\Users\Mauricio M\Downloads\encriptar clave\encriptar clave\obj\Debug\encriptar clave.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\encriptar clave\encriptar clave\obj\Debug\encriptar clave.exe
+C:\Users\Mauricio M\Downloads\encriptar clave\encriptar clave\obj\Debug\encriptar clave.pdb
